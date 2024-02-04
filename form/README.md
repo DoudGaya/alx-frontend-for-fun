@@ -58,4 +58,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Abdulrahman Dauda** - [DoudGaya](https://github.com/DoudGaya)
